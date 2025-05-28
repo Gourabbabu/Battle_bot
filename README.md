@@ -15,4 +15,4 @@ This repository contains the code, schematics, and documentation for our battle 
 
 ---
 
-**Built with ❤️ by Gourab**
+**Built with ❤️ by Gourab & Vibek**
